@@ -1,0 +1,7 @@
+C:\Users\erick.vgusson\source\repos\Tipos de Laços\tipos_lacos\tipos_lacos\bin\Debug\tipos_lacos.exe.config
+C:\Users\erick.vgusson\source\repos\Tipos de Laços\tipos_lacos\tipos_lacos\bin\Debug\tipos_lacos.exe
+C:\Users\erick.vgusson\source\repos\Tipos de Laços\tipos_lacos\tipos_lacos\bin\Debug\tipos_lacos.pdb
+C:\Users\erick.vgusson\source\repos\Tipos de Laços\tipos_lacos\tipos_lacos\obj\Debug\tipos_lacos.csproj.AssemblyReference.cache
+C:\Users\erick.vgusson\source\repos\Tipos de Laços\tipos_lacos\tipos_lacos\obj\Debug\tipos_lacos.csproj.CoreCompileInputs.cache
+C:\Users\erick.vgusson\source\repos\Tipos de Laços\tipos_lacos\tipos_lacos\obj\Debug\tipos_lacos.exe
+C:\Users\erick.vgusson\source\repos\Tipos de Laços\tipos_lacos\tipos_lacos\obj\Debug\tipos_lacos.pdb
